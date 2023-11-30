@@ -1,0 +1,10 @@
+{
+    "name": "ynov/pokedex",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Ynov\\Pokedex\\": "src/"
+        }
+    },
+    "require": {}
+}
